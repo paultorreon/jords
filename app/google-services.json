@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "797494396301",
+    "firebase_url": "https://firejords-6cd40-default-rtdb.firebaseio.com",
+    "project_id": "firejords-6cd40",
+    "storage_bucket": "firejords-6cd40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797494396301:android:9b16d8ea55ff18342d29c4",
+        "android_client_info": {
+          "package_name": "com.example.FireJORDS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZwo-f-PWYMpBywnavugjtVzRuX0sguc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

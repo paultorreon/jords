@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="56dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- yellow circle -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M50,50m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    <!-- chevrons -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M27,42 L50,30 L73,42"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M27,56 L50,44 L73,56"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- small arrow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,66 L58,66 L50,74 Z" />
+</vector>
